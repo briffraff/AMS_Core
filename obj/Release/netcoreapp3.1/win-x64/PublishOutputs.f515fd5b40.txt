@@ -1,0 +1,2 @@
+C:\Users\riffraff\Dropbox\Scripting\AMS2\AMS2_core\bin\Release\netcoreapp3.1\win-x64\publish\AMS2_core.pdb
+C:\Users\riffraff\Dropbox\Scripting\AMS2\AMS2_core\bin\Release\netcoreapp3.1\win-x64\publish\AMS2_core.exe
